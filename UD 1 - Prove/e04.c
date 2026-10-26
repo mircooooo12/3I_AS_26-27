@@ -1,10 +1,12 @@
 #include <stdio.h>
+
 int main()
 {
     float v1 = 0;
     float v2 = 0;
     float v3 = 0;
     float avg = 0;
+    
     printf("inserisci il primo voto: ");
     scanf("%f", &v1);
     printf("inserisci il secondo voto: ");
