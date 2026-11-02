@@ -4,7 +4,8 @@
     (ipotizzando quadrato o rettangolo).
 */ 
 #include<stdio.h>
-int main(){
+int main()
+{
     float lato1 = 0;
     float lato2 = 0;
     float area = 0;
